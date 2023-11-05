@@ -9,7 +9,7 @@ Este projeto visa facilitar a coleta de doações para organizações ou indiví
 - **Selecionar Alimentos:** Usuários podem escolher diferentes tipos de alimentos para doar, especificando a quantidade e o valor que desejam contribuir.
 - **Cadastro de Doação:** Ao escolher os itens para doar, os usuários inserem suas informações de pagamento PIX, e uma imagem do item é carregada para facilitar a identificação.
 - **Salvamento de Doações:** Todas as doações são salvas localmente no navegador do usuário usando `localStorage`, com imagens convertidas em formato Base64.
-- **Edição e Exclusão:** Os usuários podem editar ou excluir doações que ainda não foram finalizadas.
+- **Edição e Exclusão:** Os usuários podem editar clicando diretamente nas células semelhante ao excel, ou excluir doações clicando no botão excluir.
 
 ## Administração
 
