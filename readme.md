@@ -2,6 +2,7 @@
 
 ## Sobre o Projeto
 Este projeto visa facilitar a coleta de doações para organizações ou indivíduos que precisam de ajuda na alimentação. Ele oferece uma plataforma onde doadores podem selecionar itens alimentares para doar e realizar a doação através de PIX, uma forma de pagamento instantâneo muito utilizada.
+![Imagem do modelo](img/modelo.png)
 
 ## Funcionalidades
 
